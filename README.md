@@ -14,6 +14,8 @@ platformio-ide-terminal
 
 ## VIM  
 https://github.com/yangyangwithgnu/use_vim_as_ide  
+https://spacevim.org  
+
 
 
 
