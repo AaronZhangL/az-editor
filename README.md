@@ -11,6 +11,7 @@ minimap
 atom-ternjs  
 autocomplete-paths  
 platformio-ide-terminal  
+markdonw-preview
 
 ## VIM  
 https://github.com/yangyangwithgnu/use_vim_as_ide  
